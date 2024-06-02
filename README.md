@@ -9,5 +9,5 @@ DNS-AI-Scan leverages Machine Learning (AI), specifically Isolation Forest, to a
 - `python3 -m pip install --upgrade -r requirements.txt`
 - `chmod +x DNS-AI-Scan.py`
 
-## Usage
+## Usage
 - `./DNS-AI-Scan.py -h`
